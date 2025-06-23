@@ -98,6 +98,7 @@
         }
 
         #sidebar-tabs {
+            flex: 1;
             overflow-y: visible;
             overflow-x: scroll;
             padding: 0;
